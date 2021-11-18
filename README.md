@@ -3,7 +3,7 @@
 
 this API is bare-bones. has no routing/controllers.
 
-view [Here](https://api-election-data.herokuapp.com/federal_election_votes).
+view [Here](https://api-fed-election-votes.herokuapp.com/results).
 
 Needed election polls data for a side-ting  🦙 .  
 
